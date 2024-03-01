@@ -1,11 +1,11 @@
 {
   "name": "testarme",
-  "version": "1.2.68",
+  "version": "1.2.69",
   "author": "karinaprishepa2",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karinaprishepa2/testar.git"
+    "url": "https://github.com/karinaprishepa2/testar.git"
   },
   "scripts": {
     "dev": "next dev",
